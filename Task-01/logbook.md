@@ -12,3 +12,6 @@ Using the hint, xported AWAKENING_SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}" 
 Used diff on the generated log files to find the flag.
 Flag: BAROQUE_DIAL{SPLIT_TIMELINE_MISDIRECTION}
 
+LEVEL 3
+There is a file somewhere in the level 2 folder named little_garden and there is also a folder name Wax_Jungle in the GrandLine
+Stuck here on how to proceed further
